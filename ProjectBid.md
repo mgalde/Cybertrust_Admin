@@ -1,6 +1,6 @@
 CyberTrust
 
-Names:                        <p style="text-align: center;">Fadila Kangaye</p>
+Names:                        <p align="center">Fadila Kangaye</p>
                               <p style="text-align: center;">Taraka Vishnumolakala</p>
                               <p style="text-align: center;">Michael Galde</p>
                               <p style="text-align: center;">Austin Nielsen</p>
