@@ -1,4 +1,4 @@
-## CyberTrust
+## Project CyberTrust
 
 ### Names:                        
                               <p align="center">Fadila Kangaye</p>
@@ -13,7 +13,6 @@
                               <p align="center">mgalde@unomaha.edu</p>
                               <p align="center">austinnielsen@unomaha.edu</p>
                               <p align="center">wrobinson@unomaha.edu</p>
-
 
 ### University:                   
                               <p align="center">University of Nebraska-Omaha</p>
@@ -32,6 +31,7 @@
 The Cyber Trust group will utilize skills and abilities within this capstone project to demonstrate the growth each individual has taken over the past fews years within the cyber security degree program. The project has been assigned by Dr. Hale to address a web space issue which this team is excited to address and bring creative solutions towards a more finished project.
 
 ### Project Scope:
+
 The group will provide a solution to create three separate user bases which will include, management users, administration users and general users.
 The group will provide a solution to identify user performance tracking over time based on previous results to be compared against.
 The group will provide a solution to identify which categories of phishing are more / less successful based on user responses.
