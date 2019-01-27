@@ -1,10 +1,10 @@
 CyberTrust
 
-Names:                        Fadila Kangaye
-                              Taraka Vishnumolakala
-                              Michael Galde
-                              Austin Nielsen
-                              Jake Robinson
+Names:                        <p style="text-align: center;">Fadila Kangaye</p>
+                              <p style="text-align: center;">Taraka Vishnumolakala</p>
+                              <p style="text-align: center;">Michael Galde</p>
+                              <p style="text-align: center;">Austin Nielsen</p>
+                              <p style="text-align: center;">Jake Robinson</p>
 
 Email addresses:  	        	jfkangaye@sunomaha.edu
                               tvishnumolakala@unomaha.edu
