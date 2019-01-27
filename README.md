@@ -7,4 +7,4 @@ Due to the unique nature of this capstone project, the actual codebase will not 
 
 ## Milestone 1
 
-* [Project Milestone 1](/CYBR4580-8950/ProjectMilestone-1.md)
+* [Project Milestone 1](/CYBR4580-8950/Project-Milestone-1.md)
