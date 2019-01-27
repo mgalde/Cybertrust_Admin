@@ -1,25 +1,25 @@
 CyberTrust
 
 Names:                        <p align="center">Fadila Kangaye</p>
-                              <p style="text-align: center;">Taraka Vishnumolakala</p>
-                              <p style="text-align: center;">Michael Galde</p>
-                              <p style="text-align: center;">Austin Nielsen</p>
-                              <p style="text-align: center;">Jake Robinson</p>
+                              <p align="center">Taraka Vishnumolakala</p>
+                              <p align="center">Michael Galde</p>
+                              <p align="center">Austin Nielsen</p>
+                              <p align="center">Jake Robinson</p>
 
-Email addresses:  	        	jfkangaye@sunomaha.edu
-                              tvishnumolakala@unomaha.edu
-                              mgalde@unomaha.edu
-                              austinnielsen@unomaha.edu
-                              wrobinson@unomaha.edu
+Email addresses:  	        	<p align="center">jfkangaye@sunomaha.edu</p>
+                              <p align="center">tvishnumolakala@unomaha.edu</p>
+                              <p align="center">mgalde@unomaha.edu</p>
+                              <p align="center">austinnielsen@unomaha.edu</p>
+                              <p align="center">wrobinson@unomaha.edu</p>
 
 
-University:                   University of Nebraska-Omaha
+University:                   <p align="center">University of Nebraska-Omaha</p>
 
-Faculty Advisor:              Dr. Matt Hale
+Faculty Advisor:              <p align="center">Dr. Matt Hale</p>
 
-Project:                      CyberTrust
+Project:                      <p align="center">CyberTrust</p>
 
-Technical Director:           Dr. Matt Hale
+Technical Director:           <p align="center">Dr. Matt Hale</p>
 
 Reason for wanting this project:
 
