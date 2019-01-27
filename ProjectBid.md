@@ -7,7 +7,7 @@
                               <p align="center">Austin Nielsen</p>
                               <p align="center">Jake Robinson</p>
 
-### Email addresses:  	        	
+### Email addresses:<br>  	        	
                               <p align="center">jfkangaye@sunomaha.edu</p>
                               <p align="center">tvishnumolakala@unomaha.edu</p>
                               <p align="center">mgalde@unomaha.edu</p>
