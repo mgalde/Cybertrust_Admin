@@ -8,11 +8,11 @@
                               <p align="center">Jake Robinson</p>
 
 ### Email addresses:<br>  	        	
-                              <p align="center">jfkangaye@sunomaha.edu</p>
-                              <p align="center">tvishnumolakala@unomaha.edu</p>
-                              <p align="center">mgalde@unomaha.edu</p>
-                              <p align="center">austinnielsen@unomaha.edu</p>
-                              <p align="center">wrobinson@unomaha.edu</p>
+                              jfkangaye@sunomaha.edu
+                              tvishnumolakala@unomaha.edu
+                              mgalde@unomaha.edu</p>
+                              austinnielsen@unomaha.edu
+                              wrobinson@unomaha.edu
 
 ### University:                   
                               <p align="center">University of Nebraska-Omaha</p>
