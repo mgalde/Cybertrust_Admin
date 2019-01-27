@@ -15,20 +15,20 @@
                               wrobinson@unomaha.edu
 
 ### University:                   
-                              <p align="center">University of Nebraska-Omaha</p>
+                              University of Nebraska-Omaha
 
 ### Faculty Advisor:              
-                              <p align="center">Dr. Matt Hale</p>
+                              Dr. Matt Hale
 
 ### Project:                      
-                              <p align="center">CyberTrust</p>
+                              CyberTrust
 
 ### Technical Director:           
-                              <p align="center">Dr. Matt Hale</p>
+                              Dr. Matt Hale
 
 ### Reason for wanting this project:
 
-The Cyber Trust group will utilize skills and abilities within this capstone project to demonstrate the growth each individual has taken over the past fews years within the cyber security degree program. The project has been assigned by Dr. Hale to address a web space issue which this team is excited to address and bring creative solutions towards a more finished project.
+The Cyber Trust group will utilize skills and abilities within this capstone project to demonstrate the growth each individual has taken over the past few years within the cyber security degree program. The project has been assigned by Dr. Hale to address a web space issue which this team is excited to address and bring creative solutions towards a more finished project.
 
 ### Project Scope:
 
