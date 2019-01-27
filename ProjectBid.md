@@ -8,7 +8,7 @@
                               Jake Robinson
 
 ### Email addresses:	        	
-                              jfkangaye@sunomaha.edu
+                              jfkangaye@unomaha.edu
                               tvishnumolakala@unomaha.edu
                               mgalde@unomaha.edu
                               austinnielsen@unomaha.edu
