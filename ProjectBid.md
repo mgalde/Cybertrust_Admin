@@ -42,8 +42,8 @@ The group will provide a solution to allow administrators a set of tools which w
 
 (high level overview of team structure)
 
-Fadila Kangaye: I am full stack developer with Java Spring Angular 2+ experience
-Taraka Vishnumolakala: Graduate student in Cybersecurity. I’m a Software Engineer at ES&S with most of my experience in backend development.
-Michael Galde is a graduate student working towards a MS in Cybersecurity. He currently works as a cyber security engineer for the Nebraska Applied Research Institute.
-Austin Nielsen: I am a undergraduate senior majoring in cybersecurity and computer science.  I have experience working with Javascript and React framework.  I currently work as an intern with Interpublic Group, where I help develop automation programs to create an easier experience for coworkers.
-Jake Robinson: I am a undergraduate senior majoring in cybersecurity with a minor in computer science.  I currently work as a full stack developer with 6 months experience.  I experiencing developing in the .Net and Angular 2+ frameworks.
+* Fadila Kangaye: I am full stack developer with Java Spring Angular 2+ experience
+* Taraka Vishnumolakala: Graduate student in Cybersecurity. I’m a Software Engineer at ES&S with most of my experience in backend development.
+* Michael Galde is a graduate student working towards a MS in Cybersecurity. He currently works as a cyber security engineer for the Nebraska Applied Research Institute.
+* Austin Nielsen: I am a undergraduate senior majoring in cybersecurity and computer science.  I have experience working with Javascript and React framework.  I currently work as an intern with Interpublic Group, where I help develop automation programs to create an easier experience for coworkers.
+* Jake Robinson: I am a undergraduate senior majoring in cybersecurity with a minor in computer science.  I currently work as a full stack developer with 6 months experience.  I experiencing developing in the .Net and Angular 2+ frameworks.
