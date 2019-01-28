@@ -139,7 +139,7 @@ body::before {
 if (document.getElementById('map-canvas')){
 
   // Coordinates (Off Center)
-  var myLatlng = new google.maps.LatLng(41.2471,96.0168);
+  var myLatlng = new google.maps.LatLng(41.2471,-96.0168);
 
   // Other options for the map, pretty much selfexplanatory
   var mapOptions = {
@@ -172,7 +172,7 @@ if (document.getElementById('map-canvas')){
   map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
 
   var marker = new google.maps.Marker({
-    position: new google.maps.LatLng(41.2471,96.0168),
+    position: new google.maps.LatLng(41.2471,-96.0168),
     // Below is position of marker at the center of the map
     // position: new google.maps.LatLng(48.8566140,2.1000019),
     animation: google.maps.Animation.DROP,
