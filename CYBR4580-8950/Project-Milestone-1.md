@@ -56,8 +56,8 @@ This part of the milestone is strictly captured by GitHub Projects (its a Kanban
 - [Proposed project timeline](#proposed-project-timeline) - @mgalde
   - Define the tasks and expected time to completion
   - Create and submit a gantt chart
-- [Project-oriented risk list](#risk-list) - What could go wrong in the project and why?
-- [Project Methodology](#project-methodology) - @swrp / @mgalde / @jarob00
+- [Project-oriented risk list](#risk-list) - @mgalde / @AustinNielsen
+- [Project Methodology](#project-methodology) - @swrp / @mgalde / @jarob00 / @AustinNielsen
 - [Resources/Technology needed](#resources-needed) - What do you need to be successful?
 - [First Sprint Plan](#first-sprint-plan) - @swrp
 - [Note about Teamwork and Group projects](#teamwork)
