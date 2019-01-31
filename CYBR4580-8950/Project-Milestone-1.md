@@ -47,3 +47,17 @@ Use the following table structure.
 ### First Sprint Plan
 
 This part of the milestone is strictly captured by GitHub Projects (its a Kanban board technology like Trello). In your Kanban board, create a board following the structure discussed in class (see Lecture 4). Use this structure to identify the tasks that you will tackle in your first sprint. Put those tasks in the Sprint To-do category.
+
+
+
+- [Executive Project Summary](#executive-project-summary) - @jarob00
+  - Goals and Objectives
+  - Merit of the Project
+- [Proposed project timeline](#proposed-project-timeline) - @mgalde
+  - Define the tasks and expected time to completion
+  - Create and submit a gantt chart
+- [Project-oriented risk list](#risk-list) - What could go wrong in the project and why?
+- [Project Methodology](#project-methodology) - @swrp / @mgalde / @jarob00
+- [Resources/Technology needed](#resources-needed) - What do you need to be successful?
+- [First Sprint Plan](#first-sprint-plan) - @swrp
+- [Note about Teamwork and Group projects](#teamwork)
