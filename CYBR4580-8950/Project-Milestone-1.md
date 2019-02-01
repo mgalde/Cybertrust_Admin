@@ -58,6 +58,6 @@ This part of the milestone is strictly captured by GitHub Projects (its a Kanban
   - Create and submit a gantt chart
 - [Project-oriented risk list](#risk-list) - @mgalde / @AustinNielsen
 - [Project Methodology](#project-methodology) - @swrp / @mgalde / @jarob00 / @AustinNielsen
-- [Resources/Technology needed](#resources-needed) - What do you need to be successful?
+- [Resources/Technology needed](#resources-needed) - What do you need to be successful? - @fkangaye
 - [First Sprint Plan](#first-sprint-plan) - @swrp
 - [Note about Teamwork and Group projects](#teamwork)
