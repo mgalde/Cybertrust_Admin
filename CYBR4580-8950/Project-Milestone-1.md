@@ -22,7 +22,8 @@ The project timeline will be modified as needed and is located at this location:
 
 ### Risk list
 ![Risk Matrix](/CYBR4580-8950/SupDocs/RiskMatrix.png "Risk Matrix")
-You should prepare a risk list table and add it to your README.md file in your GitHub project repo, beneath your Gantt chart. The table should use markdown syntax such as:
+
+This risk matrix describes what threats to the project exist, the likelihood that these threats pose and what mitigations exist to minimize these threats.
 
 |Risk name| Value (Rating)     | Impact     | Likelihood | Description | Mitigation |
 |-------------------|------------|------------|------------|-------------|-------------|
