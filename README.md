@@ -25,6 +25,10 @@ The project timeline will be modified as needed and is located at this location:
 ### Risk list
 ![Risk Matrix](/CYBR4580-8950/SupDocs/RiskMatrix.png "Risk Matrix")
 
-|Risk name (value)  | Impact     | Likelihood | Description |
-|-------------------|------------|------------|-------------|
-|Some risk (40) | 8 | 5 | Some description  |
+* This risk matrix describes what threats to the project exist, the likelihood that these threats pose and what mitigations exist to minimize these threats.
+
+|Risk name| Value (Rating)     | Impact     | Likelihood | Description | Mitigation |
+|-------------------|------------|------------|------------|-------------|-------------|
+|Meeting / Scheduling conflict | 5 (Medium) | 3 (Minor)| 9 (Very Likely)| Each member has a busy lifestyle and will need to find time to coordinate requirements to the project with each members. | Team members will utilize Slack, GitHub and email to coordinate information with each other. |
+|Project Member leaves or reassigned | 8 (Medium High)| 10 (Severe) | 3 (Unlikely) | The loss of a team member will force other members to increase the workload to other members of the team. | Tasks will be assigned utilizing the GitHub Kanban board system. |
+|Unable to learn EmberJS | 4 (Low Medium) | 6 (Moderate) | 2 (Very Unlikely) | No members of the team are able to understand or generate appropriate Ember JS code. | Ember JS has multiple resources to learn the code to be learned by members who don't know the codebase. |
