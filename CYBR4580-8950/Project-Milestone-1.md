@@ -24,8 +24,8 @@ The project timeline will be modified as needed and is located at this location:
 ![Risk Matrix](/CYBR4580-8950/SupDocs/RiskMatrix.png "Risk Matrix")
 You should prepare a risk list table and add it to your README.md file in your GitHub project repo, beneath your Gantt chart. The table should use markdown syntax such as:
 
-|Risk name (value)  | Impact     | Likelihood | Description | Mitigation |
-|-------------------|------------|------------|-------------|-------------|
+|Risk name| Value (Rating)     | Impact     | Likelihood | Description | Mitigation |
+|-------------------|------------|------------|------------|-------------|-------------|
 |Meeting / Scheduling conflict 5 (Medium) | 3 (Minor)| 9 (Very Likely)| Each member has a busy lifestyle and will need to find time to coordinate requirements to the project with each members. | Team members will utilize Slack, GitHub and email to coordinate information with each other. |
 |Project Member leaves or reassigned 8 (Medium High)| 10 (Severe) | 3 (Unlikely) | The loss of a team member will force other members to increase the workload to other members of the team. | Tasks will be assigned utilizing the GitHub Kanban board system. |
 |Unable to learn EmberJS 4 (Low Medium) | 6 (Moderate) | 2 (Very Unlikely) | No members of the team are able to understand or generate appropriate Ember JS code. | Ember JS has multiple resources to learn the code to be learned by members who don't know the codebase. |
