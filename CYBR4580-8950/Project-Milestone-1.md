@@ -13,7 +13,14 @@ The merit of accomplishing the project goals and objectives in terms of how it h
 
 ### Proposed project timeline
 
-You should create a gantt chart and identify major tasks that span the rest of the semester. I suggest using a gantt chart creation tool such as ganttpro - but you may feel free to create one in a tool of your choice (a simple table is fine). Once your chart is created, save it as an image file and display it in your README.md file, beneath your executive summary on your GitHub repo.
+![Gant chart](/CYBR4580-8950/SupDocs/GantChart.png "Gant Chart")
+
+The project will follow the following proposed timeline following the three project milestones. The first project milestone is the completion of this set up. Project milestone 2 is expected to complete 3/26/2019 with the development of a concept presentation. Project milestone 3 will conclude May with the projects final presentation. 
+
+The project timeline will be modified as needed and is located at this location:
+* [Gant Chart](/CYBR4580-8950/SupDocs/CybertrustGantChart.xlsx)
+
+
 
 ### Risk list
 
