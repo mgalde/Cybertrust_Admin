@@ -23,7 +23,7 @@ The project timeline will be modified as needed and is located at this location:
 ### Risk list
 ![Risk Matrix](/CYBR4580-8950/SupDocs/RiskMatrix.png "Risk Matrix")
 
-This risk matrix describes what threats to the project exist, the likelihood that these threats pose and what mitigations exist to minimize these threats.
+* This risk matrix describes what threats to the project exist, the likelihood that these threats pose and what mitigations exist to minimize these threats.
 
 |Risk name| Value (Rating)     | Impact     | Likelihood | Description | Mitigation |
 |-------------------|------------|------------|------------|-------------|-------------|
