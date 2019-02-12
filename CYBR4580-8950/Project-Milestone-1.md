@@ -46,6 +46,18 @@ For milestone 1, you should prepare a literature review document that surveys th
 Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
 
 ### Resources Needed
+- Node.js
+- Ember and Ember-cli
+- Console
+- IDE /Code Editors
+- Docker
+- Browser and Addons
+
+## Development Framework
+- Ember.js
+- Django / Python
+- PostgreSQL
+
 
 Under your requirements section in the README.md file in your GitHub repo, clearly identify the technologies, products, and languages involved in your project. Include a table that identifies which team member will investigate each needed resource. Also include a column indicating whether or not material resources are needed from Dr. Hale.
 
@@ -53,8 +65,51 @@ Use the following table structure.
 
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
-|Some resource| No | Bob | Some description  |
-|e.g. PLC unit | Yes | Gary | A programmable logic controller from Siemens for investigation.|
+|Node.js| Yes | Fadila | Install NPM which is dependency to install ember and other node packages |
+|Ember and Ember-cli| Yes | Team | Generate and manage our app components, structure and download ember addons |
+|Console| Yes | Fadila | This will make serving out app faster |
+|IDE/ Code Editors| Yes | Fadila | SublimeText, Atoms and few more IDE will help speed development time   |
+|Docker| Yes | Fadila | Create/Manage/Destroy our local enviroment and all of the equired dependencies |
+|Browswer and Addons | Yes | Fadila | Chrome Developer tool and Ember inspector will help troubleshooting the application  |
+|Bower| Yes | Fadila | Will be used for ember package manager  |
+
+## Resource and Technology Install
+- IDE
+	- Sublime Text
+	- Visual Studio Code
+	- Atom
+	- IntelliJ
+	- WebStorm
+  
+- Browser and addons
+	- Google Chrome developer tool
+	- Ember Inspector
+		- http://bit.ly/ember-inspector
+			
+- Node.js Install
+	- Mac Install
+		- Using Homebrew
+			- http://brew.sh
+			- `brew install node`
+	- Windows Install
+		- Using chocolatey
+			- https://chocolatey.org
+			- `choco instll node.js .install`
+- Console
+  - Mac
+    - iterm
+      - https://www/iterm2.com
+  - Windows
+    - PowerShell console
+
+- Ember-cli
+	- Run:
+		- `npm install -g ember-cli@latest`
+		- `npm install -g bower`
+
+- Docker
+	- https://docs.docker.com/install/
+
 
 ### First Sprint Plan
 
