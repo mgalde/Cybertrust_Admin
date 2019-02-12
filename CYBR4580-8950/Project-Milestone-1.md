@@ -4,12 +4,15 @@
 Requirements analysis and planning (Project Proposal Stage)
 
 ### Executive Project Summary
+This project will suppliment the current CyberTrust web application by providing aditional user and administrative tool sets.  The goal of CyberTrust is to provide a research platform for exploring the phychology of phishing from a user's perspective.  Currently, it is designed to identify what a user identifies as a trusting vs threatening form of cummunication.  The obtained research data is then used to help define effective training to prevent the user from becoming a victim.  Currently CyberTrust does not segment the user base, nor does it provide a comprehensive mechanism for delivering complex reports.  The proprosed changes will segment the user group into common users and administrative users.  The addition of robust administrative reporting tools will provide an interface for gathering and compiling critical reports, accessed through one convenient user interface.  The common users will be provided with a user statistic screen to supply them with reports, related directly to his/her activities, aimed to suppliment training by providing realative statistics of personal usage.  
 
-It should contain the following:
+Project Goals:
+- Segment the user base into Administrative and User groups to allow seperated functionallities.
+- Provide an administrator screen which fill provide a consolidated toolset for creating reports.
+- Create a user statistics screen to display analitics relating to individual usage. 
 
-A problem statement identifying relevant issues related to your bid. The problem statement might also discuss why these issues are a problematic for society, a particular industry/sector/company/agency, or a specific technology(ies).
-Project goals and objectives in a numbered or bulleted list that you propose to undertake to address the identified problem. Clearly identify what you are doing at a high level with minimal technical detail.
-The merit of accomplishing the project goals and objectives in terms of how it helps end users, society, or particular industries/sectors/companies/agencies.
+Once completed this will increase the effectiveness of the CyberTrust research platform by providing detailed information to researchers, business, and users.  These reports will facilitate researchers and businesses with tools needed to aggregate information into useful statistics.  These statistics are needed to better identify traits within a variety of communications that present increased risk to user vitimization.  In addition, displaying personal user statistics will provide an intimate connection for individual risk factors.  This will likely provide a deeper meaning when implementing a training strategy.   
+
 
 ### Proposed project timeline
 
