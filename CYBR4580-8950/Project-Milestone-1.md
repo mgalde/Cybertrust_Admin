@@ -59,11 +59,6 @@ The project timeline will be modified as needed and is located at this location:
 - Django / Python
 - PostgreSQL
 
-
-Under your requirements section in the README.md file in your GitHub repo, clearly identify the technologies, products, and languages involved in your project. Include a table that identifies which team member will investigate each needed resource. Also include a column indicating whether or not material resources are needed from Dr. Hale.
-
-Use the following table structure.
-
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
 |Node.js| Yes | Fadila | Install NPM which is dependency to install ember and other node packages |
@@ -113,8 +108,13 @@ Use the following table structure.
 
 
 ### First Sprint Plan
+![Sprint Plan](/CYBR4580-8950/SupDocs/sprintplan.png "Sprint Plan")
+* [Sprint Plan](https://github.com/mgalde/Cybertrust_Admin#workspaces/)
 
-This part of the milestone is strictly captured by GitHub Projects (its a Kanban board technology like Trello). In your Kanban board, create a board following the structure discussed in class (see Lecture 4). Use this structure to identify the tasks that you will tackle in your first sprint. Put those tasks in the Sprint To-do category.
+
+The team will follow a 2 week sprint planning cycle and will utilize ZenHub as the resource to manage this piece of the project.
+* [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US)
+
 
 
 
