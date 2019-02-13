@@ -37,13 +37,6 @@ The project timeline will be modified as needed and is located at this location:
 
 
 ### Project Methodology
-Requirements are extremely important for conducting a successful project - of either the creative or assessment-oriented varieties. Collecting requirements about an application means understand what your end user (or what the end user of a product you are assessing) is going to do with the product. To understand requirements we often define user stories and use cases to encapsulate and represent behavior.
-
-#### Literature Review
-For milestone 1, you should prepare a literature review document that surveys the various research and development work in your project area. Your literature review should identify important keywords, relevant research papers, and the state of the art in your area.
-
-#### Technical Plan
-Once you have examined the relevant literature, you should prepare a technical plan that outlines and defines your methodology. Important consideration should be made to ensure that your methodology uses the literature to the best extent possible. Your technical plan should provide a detailed description of exactly what and how you will do what you plan to do.
 
 ### Resources Needed
 - Node.js
