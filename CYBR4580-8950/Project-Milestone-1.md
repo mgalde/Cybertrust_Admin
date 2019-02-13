@@ -4,14 +4,14 @@
 Requirements analysis and planning (Project Proposal Stage)
 
 ### Executive Project Summary
-This project will suppliment the current CyberTrust web application by providing aditional user and administrative tool sets.  The goal of CyberTrust is to provide a research platform for exploring the phychology of phishing from a user's perspective.  Currently, it is designed to identify what a user identifies as a trusting vs threatening form of cummunication.  The obtained research data is then used to help define effective training to prevent the user from becoming a victim.  Currently CyberTrust does not segment the user base, nor does it provide a comprehensive mechanism for delivering complex reports.  The proprosed changes will segment the user group into common users and administrative users.  The addition of robust administrative reporting tools will provide an interface for gathering and compiling critical reports, accessed through one convenient user interface.  The common users will be provided with a user statistic screen to supply them with reports, related directly to his/her activities, aimed to suppliment training by providing realative statistics of personal usage.  
+This project will supplement the current CyberTrust web application by providing additional user and administrative tool sets.  The goal of CyberTrust is to provide a research platform for exploring the phycology of phishing from a user's perspective.  Currently, it is designed to identify what a user identifies as a trusting vs threatening form of communication.  The obtained research data is then used to help define effective training to prevent the user from becoming a victim.  Currently CyberTrust does not segment the user base, nor does it provide a comprehensive mechanism for delivering complex reports.  The proposed changes will segment the user group into common users and administrative users.  The addition of robust administrative reporting tools will provide an interface for gathering and compiling critical reports, accessed through one convenient user interface.  The common users will be provided with a user statistic screen to supply them with reports, related directly to his/her activities, aimed to supplement training by providing relative statistics of personal usage.  
 
 Project Goals:
-- Segment the user base into Administrative and User groups to allow seperated functionallities.
+- Segment the user base into Administrative and User groups to allow separated functionalities.
 - Provide an administrator screen which fill provide a consolidated toolset for creating reports.
-- Create a user statistics screen to display analitics relating to individual usage. 
+- Create a user statistics screen to display analytics relating to individual usage.
 
-Once completed this will increase the effectiveness of the CyberTrust research platform by providing detailed information to researchers, business, and users.  These reports will facilitate researchers and businesses with tools needed to aggregate information into useful statistics.  These statistics are needed to better identify traits within a variety of communications that present increased risk to user vitimization.  In addition, displaying personal user statistics will provide an intimate connection for individual risk factors.  This will likely provide a deeper meaning when implementing a training strategy.   
+Once completed this will increase the effectiveness of the CyberTrust research platform by providing detailed information to researchers, business, and users.  These reports will facilitate researchers and businesses with tools needed to aggregate information into useful statistics.  These statistics are needed to better identify traits within a variety of communications that present increased risk to user victimization.  In addition, displaying personal user statistics will provide an intimate connection for individual risk factors.  This will likely provide a deeper meaning when implementing a training strategy.   
 
 
 ### Proposed project timeline
@@ -69,8 +69,8 @@ Use the following table structure.
 |Ember and Ember-cli| Yes | Team | Generate and manage our app components, structure and download ember addons |
 |Console| Yes | Fadila | This will make serving out app faster |
 |IDE/ Code Editors| Yes | Fadila | SublimeText, Atoms and few more IDE will help speed development time   |
-|Docker| Yes | Fadila | Create/Manage/Destroy our local enviroment and all of the equired dependencies |
-|Browswer and Addons | Yes | Fadila | Chrome Developer tool and Ember inspector will help troubleshooting the application  |
+|Docker| Yes | Fadila | Create/Manage/Destroy our local environment and all of the required dependencies |
+|Browser and Addons | Yes | Fadila | Chrome Developer tool and Ember inspector will help troubleshooting the application  |
 |Bower| Yes | Fadila | Will be used for ember package manager  |
 
 ## Resource and Technology Install
@@ -80,12 +80,12 @@ Use the following table structure.
 	- Atom
 	- IntelliJ
 	- WebStorm
-  
+
 - Browser and addons
 	- Google Chrome developer tool
 	- Ember Inspector
 		- http://bit.ly/ember-inspector
-			
+
 - Node.js Install
 	- Mac Install
 		- Using Homebrew
@@ -94,7 +94,7 @@ Use the following table structure.
 	- Windows Install
 		- Using chocolatey
 			- https://chocolatey.org
-			- `choco instll node.js .install`
+			- `choco install node.js .install`
 - Console
   - Mac
     - iterm
