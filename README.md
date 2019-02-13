@@ -10,7 +10,6 @@ Due to the unique nature of this capstone project, the actual codebase will not 
 * [Project Milestone 1](/CYBR4580-8950/Project-Milestone-1.md)
 
 ### Executive Project Summary
-
 This project will supplement the current CyberTrust web application by providing additional user and administrative tool sets.  The goal of CyberTrust is to provide a research platform for exploring the phycology of phishing from a user's perspective.  Currently, it is designed to identify what a user identifies as a trusting vs threatening form of communication.  The obtained research data is then used to help define effective training to prevent the user from becoming a victim.  Currently CyberTrust does not segment the user base, nor does it provide a comprehensive mechanism for delivering complex reports.  The proposed changes will segment the user group into common users and administrative users.  The addition of robust administrative reporting tools will provide an interface for gathering and compiling critical reports, accessed through one convenient user interface.  The common users will be provided with a user statistic screen to supply them with reports, related directly to his/her activities, aimed to supplement training by providing relative statistics of personal usage.  
 
 Project Goals:
@@ -41,9 +40,17 @@ The project timeline will be modified as needed and is located at this location:
 |Project Member leaves or reassigned | 8 (Medium High)| 10 (Severe) | 3 (Unlikely) | The loss of a team member will force other members to increase the workload to other members of the team. | Tasks will be assigned utilizing the GitHub Kanban board system. |
 |Unable to learn EmberJS | 4 (Low Medium) | 6 (Moderate) | 2 (Very Unlikely) | No members of the team are able to understand or generate appropriate Ember JS code. | Ember JS has multiple resources to learn the code to be learned by members who don't know the codebase. |
 
-
-
 ### Project Methodology
+![Use Case "User"](/CYBR4580-8950/SupDocs/UseCase.png "Use Case User")
+
+![Use Case "Admin"](/CYBR4580-8950/SupDocs/UseCaseadmin.png "Use Case Admin")
+
+### Mockup Design
+![System Diagram](/CYBR4580-8950/SupDocs/SysDiagram.png "System Diagram")
+
+![Login](/CYBR4580-8950/SupDocs/MockupLogin.png "Login")
+
+![User Portal](/CYBR4580-8950/SupDocs/MockupUserPortal.png "User Portal")
 
 ### Resources Needed
 - Node.js

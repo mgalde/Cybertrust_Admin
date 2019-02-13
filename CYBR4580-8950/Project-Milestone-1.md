@@ -34,8 +34,6 @@ The project timeline will be modified as needed and is located at this location:
 |Project Member leaves or reassigned | 8 (Medium High)| 10 (Severe) | 3 (Unlikely) | The loss of a team member will force other members to increase the workload to other members of the team. | Tasks will be assigned utilizing the GitHub Kanban board system. |
 |Unable to learn EmberJS | 4 (Low Medium) | 6 (Moderate) | 2 (Very Unlikely) | No members of the team are able to understand or generate appropriate Ember JS code. | Ember JS has multiple resources to learn the code to be learned by members who don't know the codebase. |
 
-
-
 ### Project Methodology
 ![Use Case "User"](/CYBR4580-8950/SupDocs/UseCase.png "Use Case User")
 
