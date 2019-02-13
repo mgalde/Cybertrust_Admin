@@ -41,6 +41,8 @@ The project timeline will be modified as needed and is located at this location:
 
 ![Use Case "Admin"](/CYBR4580-8950/SupDocs/UseCaseadmin.png "Use Case Admin")
 
+### Mockup Design
+![Login](/CYBR4580-8950/SupDocs/MockupLogin.png "Login")
 
 ### Resources Needed
 - Node.js
