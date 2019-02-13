@@ -44,6 +44,8 @@ The project timeline will be modified as needed and is located at this location:
 ### Mockup Design
 ![Login](/CYBR4580-8950/SupDocs/MockupLogin.png "Login")
 
+![User Portal](/CYBR4580-8950/SupDocs/MockupUserPortal.png "User Portal")
+
 ### Resources Needed
 - Node.js
 - Ember and Ember-cli
