@@ -33,6 +33,9 @@ The project timeline will be modified as needed and is located at this location:
 |Meeting / Scheduling conflict | 5 (Medium) | 3 (Minor)| 9 (Very Likely)| Each member has a busy lifestyle and will need to find time to coordinate requirements to the project with each members. | Team members will utilize Slack, GitHub and email to coordinate information with each other. |
 |Project Member leaves or reassigned | 8 (Medium High)| 10 (Severe) | 3 (Unlikely) | The loss of a team member will force other members to increase the workload to other members of the team. | Tasks will be assigned utilizing the GitHub Kanban board system. |
 |Unable to learn EmberJS | 4 (Low Medium) | 6 (Moderate) | 2 (Very Unlikely) | No members of the team are able to understand or generate appropriate Ember JS code. | Ember JS has multiple resources to learn the code to be learned by members who don't know the codebase. |
+|Failure to Complete Tasks in Scheduled Time | 5 (Low Medium) | 5 (Moderate)| 4 (Unlikely)| Each task has a scheduled time that it should be complete by in order to keep the project on time. | Team members assist others, if needed, with tasks that are behind schedule. Can push the timeline to complete the task if needed. |
+|Design is infeasible | 6 (Medium) | 8 (Significant)| 2 (Very Unlikely)| The design of our addition to the project is overly costly or can't support the requirements | Team members will work together to be sure each feature will work with the proper design without increasing the cost immensely. |
+|UI is bad quality | 5 (Medium) | 6 (Moderate)| 4 (Unlikely)| The UI is buggy, difficult to use, or doesn't allow tasks to be completed. | Team members will focus on testing, finding, and fixing bugs that flaw the UI. |
 
 ### Project Methodology
 ![Use Case "User"](/CYBR4580-8950/SupDocs/UseCase.png "Use Case User")
