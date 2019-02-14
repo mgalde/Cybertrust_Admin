@@ -128,3 +128,7 @@ The project timeline will be modified as needed and is located at this location:
 
 The team will follow a 2 week sprint planning cycle and will utilize ZenHub as the resource to manage this piece of the project.
 * [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US)
+
+## Milestone 2
+
+* [Project Milestone 2](/CYBR4580-8950/Project-Milestone-2.md)
