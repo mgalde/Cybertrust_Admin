@@ -42,6 +42,8 @@ The project timeline will be modified as needed and is located at this location:
 
 ![Use Case "Admin"](/CYBR4580-8950/SupDocs/UseCaseadmin.png "Use Case Admin")
 
+![Misuser](/CYBR4580-8950/SupDocs/misuser.png "Misuser")
+
 ### Mockup Design
 ![System Diagram](/CYBR4580-8950/SupDocs/SysDiagram.png "System Diagram")
 
