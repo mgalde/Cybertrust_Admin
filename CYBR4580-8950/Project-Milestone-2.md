@@ -12,7 +12,7 @@ This project milestone tasks you with producing your first major deliverable. Si
   - Document the product increments (an agile term for the things you produce) generated in this milestone
   - Bind tasks, code artifacts, and documentation together
 - [Process / Conceptual Model (aka diagrams)](#diagrams) - Encapsulate your efforts diagrammatically
-- [Next Milestone planning](#next-milestone-plan) - Create a plan on your kanban board for your next milestone
+- [Next Milestone planning](#next-milestone-plan) - Create a plan on your Kanban board for your next milestone
 - [Presentation](#presentation) - Present your progress to the class
 
 
