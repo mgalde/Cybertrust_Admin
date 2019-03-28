@@ -8,6 +8,7 @@ Due to the unique nature of this capstone project, the actual codebase will not 
 ## Milestone 1
 
 * [Project Milestone 1](/CYBR4580-8950/Project-Milestone-1.md)
+* [Project Milestone 2](/CYBR4580-8950/Project-Milestone-2.md)
 
 ## CYBR4580/8950 Project Milestone 1:
 Requirements analysis and planning (Project Proposal Stage)
