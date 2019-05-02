@@ -1,17 +1,17 @@
 # Progress Report (28 March 2019)
 ## Overview
-The Cybertrust team has worked on the dashboard page within the cybertrust project. The team has suscessfully been able to poll backend user data to publish into the frontend to show the cybertrust admin user useful data about the test subjects in a meaningful way. 
+The Cybertrust team has worked on the dashboard page within the cybertrust project. The team has successfully been able to poll backend user data to publish into the frontend to show the cybertrust admin user useful data about the test subjects in a meaningful way.
 
 ## Outcomes
-* We have been able to identify what individuals are ranked as low risk, mederate risk and high risk based on how the user took the test. 
-* We have been able to identify and represent false negitive and true positive vs true negitive and false positive to the user based on questions / experiments so that the end user can make useful determinations about the data. 
-* We have also been able to display the top 5 low performers and display their progress on the user screen so that the cybertrust administrator can take action if needed to ensure members complete the exercise. 
+* We have been able to identify what individuals are ranked as low risk, moderate risk and high risk based on how the user took the test.
+* We have been able to identify and represent false negative and true positive vs true negative and false positive to the user based on questions / experiments so that the end user can make useful determinations about the data.
+* We have also been able to display the top 5 low performers and display their progress on the user screen so that the cybertrust administrator can take action if needed to ensure members complete the exercise.
 * We have been able to generate new page views without loading a new page so that the user can review information from a single view
 
 ## Hinderances
-* Ember charts utilized backend data which did not play nicely with the calculations we wished to preform. The team moved to zingcharts which added a extra step for set up. This setup caused a delay so we reverted back to the ember chart view. For visualization purposes we will likely move back to zing chart and resolve the issues. 
-* The team has moved into two teams, one visualization and the other backend data. This has improved productivity but buth teams need to communicate so that the process moves faster. We are on a schedule which is being met but the complexity between the two groups makes this slow moving. 
-* Team is still trying to find best way to display False Negitive and True Positive vs. True negitive vs. False positive to the end user in a useful way to the end user. 
+* Ember charts utilized backend data which did not play nicely with the calculations we wished to preform. The team moved to zingcharts which added a extra step for set up. This setup caused a delay so we reverted back to the ember chart view. For visualization purposes we will likely move back to zing chart and resolve the issues.
+* The team has moved into two teams, one visualization and the other backend data. This has improved productivity but both teams need to communicate so that the process moves faster. We are on a schedule which is being met but the complexity between the two groups makes this slow moving.
+* Team is still trying to find best way to display False Negative and True Positive vs. True negative vs. False positive to the end user in a useful way to the end user.
 
 ## Ongoing Risks
 ### Risk list
@@ -31,14 +31,14 @@ The Cybertrust team has worked on the dashboard page within the cybertrust proje
 
 ### Project Methodology
 ![Use Case "User"](/CYBR4580-8950/SupDocs/UseCase.png "Use Case User")
-* Our user case model for the user remains the same. The functions will allow the user to log in, view results and take a test. The overall function will not change as previously thought. Most of the original work will remain 
+* Our user case model for the user remains the same. The functions will allow the user to log in, view results and take a test. The overall function will not change as previously thought. Most of the original work will remain
 
 ![Use Case "Admin"](/CYBR4580-8950/SupDocs/UseCaseadmin.png "Use Case Admin")
-* The admin has been flushed out to be represented in our dashboard view. THe admin will be able to view the entire cybertrust population and recieve stats of each user and department. 
+* The admin has been flushed out to be represented in our dashboard view. The admin will be able to view the entire cybertrust population and receive stats of each user and department.
 
 ![Misuser](/CYBR4580-8950/SupDocs/Misuser.png "Misuser")
 
 ## Next Milestone planning
-* We will focus on providing updated visualitions from backend data, time was the enemy on milestone 2 but the informationa nd progress we gained will increase the suscess for this to be completed in the final milestone.
-* Generate additional views when user clicks on a data model. For example if the admin clicks on the vitimization chart then a new display is generated without re-generating the page. 
-* Intergrating backend data with frontend data, both groups come together to generate one final view.
+* We will focus on providing updated visualizations from backend data, time was the enemy on milestone 2 but the informational nd progress we gained will increase the success for this to be completed in the final milestone.
+* Generate additional views when user clicks on a data model. For example if the admin clicks on the victimization chart then a new display is generated without re-generating the page.
+* Intergrading backend data with frontend data, both groups come together to generate one final view.
